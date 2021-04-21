@@ -8,7 +8,7 @@ Link: objective-borg-270092.netlify.app
   <li>scorri in basso e vai sulla tab 2</li>
   <li>clicca sulla fotocamera</li>
   <li>scatta una foto</li>
- /ul>
+ </ul>
 
 <p>Web app ed app mobile per ios ed android, sviluppo nativo in javascript con runtime capacitator</p>
 
