@@ -2,7 +2,7 @@
 
 <h2>Puoi vedere il progetto qui:</h2>
 
-Link: <a href="objective-borg-270092.netlify.app" target="_blank">objective-borg-270092.netlify.app </a>
+Link: objective-borg-270092.netlify.app
 
 <ul>
   <li>scorri in basso e vai sulla tab 2</li>
